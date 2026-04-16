@@ -30,11 +30,16 @@ Run the Jupyter notebook:
 $ jupyter notebook SCT_ML_4.ipynb
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## 👨‍💻 Developer
 
-## License
-This project is licensed under the MIT License.
+**Sanjay N** 🚀 Freelancer
 
-## Contact
-For questions or feedback, please contact [Your Email or GitHub Profile Link].
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
